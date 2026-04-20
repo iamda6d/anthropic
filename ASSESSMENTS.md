@@ -36,7 +36,7 @@ He's the Creative Operations Lead at PLAYSTUDIOS, a mobile gaming company, where
 
 ### What makes him unusual for a comms-adjacent role
 
-He thinks in frameworks, not just messages. His communication philosophy draws on Buddhist right speech, Speech Act Theory, and Werner Erhardt's enrollment models — which sounds academic until you watch him use it. He's someone who understands that strategic communication isn't about polish, it's about structure: what speech act are you performing, what transformation are you enrolling someone into, what's the felt sense underneath the words. That's a rare toolkit.
+He thinks in frameworks, not just messages. His communication philosophy draws on Buddhist right speech, Speech Act Theory, and Werner Erhard's enrollment models — which sounds academic until you watch him use it. He's someone who understands that strategic communication isn't about polish, it's about structure: what speech act are you performing, what transformation are you enrolling someone into, what's the felt sense underneath the words. That's a rare toolkit.
 
 He's also a genuine writer. His collaboration style is telling — he uses AI for mechanical spotting and structural drafts, then rewrites with what he calls "texture and warmth." He makes the final call himself. He doesn't outsource voice; he owns it.
 
