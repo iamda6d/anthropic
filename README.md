@@ -17,7 +17,7 @@ The process included a structured collaboration with Claude (Anthropic, Opus 4.6
 | File | Description |
 |------|-------------|
 | [PROCESS.md](PROCESS.md) | My chain of thought — from discovery of the posting through the decision to apply. Includes the initial prompt I gave Claude, the questions I asked myself, and the intellectual context I brought to the table. |
-| [COLLABORATION.md](COLLABORATION.md) | A narrative summary of how Claude and I built the application together — the key decisions, the pushbacks, and what the process reveals about how I work with AI. |
+| [COLLABORATION.md](COLLABORATION.md) | A narrative summary of how Claude and I built the application together — the key decisions, the pushbacks, and what the process reveals about how I work with AI. It's significantly compressed, so much of the texture is lost. But it still functions as an overview of an 8,000+ word exchange. |
 | [ASSESSMENTS.md](ASSESSMENTS.md) | Two independent AI-generated candidate assessments (Claude and ChatGPT), each with full epistemic transparency about what they're based on, where confidence is high, and where it's genuinely uncertain. |
 
 ## Why a Repository
@@ -28,7 +28,7 @@ It's also a demonstration of how I use AI: not as a vending machine for content,
 
 ## A Note on Transparency
 
-I am 62 years old. I don't have a PhD. My degree is in Film from the University of Michigan, and I was once a television comedy writer. These facts might disqualify me in some screening processes. I've chosen to lead with them rather than hope no one notices, because the role I'm applying for is fundamentally about trust — and trust begins with honesty about who you are.
+I am 62 years old. That surprises most people when they meet me. I don't have a PhD. That surprises my mother. My degree is in Film from the University of Michigan, with a minor in architecture. I was once a television comedy writer. These facts might disqualify me in some screening processes. I've chosen to lead with them rather than hope no one notices, because the role I'm applying for is fundamentally about trust — and trust begins with honesty about who you are.
 
 ---
 
